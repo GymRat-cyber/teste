@@ -4,7 +4,7 @@
 <img style="cursor: pointer;" src="/top.svg"/>
 <h1 style="color:orange;">
   Hi there, I'm
-  <a target="_blank">Harry</a >
+  <a target="_blank">Flo</a >
   <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
     width="25px"
